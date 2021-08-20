@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wileyGray
 - 👀 I’m interested in the great outdoors
 - 🌱 I’m currently learning how to tie a tie
-- 💞️ I’m looking to collaborate on plotting a coupe
+- 💞️ I’m looking to collaborate on plotting a coup
 - 📫 How to reach me: ?
 
 <!---
